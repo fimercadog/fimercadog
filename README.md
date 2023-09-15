@@ -29,35 +29,33 @@
 | WordPress     = 80    | MySql                = 80   |
 
 
-## Proyectos *bombitas*
+## *Featured* projects
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">ferreteria_ferretic_backend</h3>
+<h3 align="center">FerreSoft</h3>
 <div align="center">
-<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank"><img src="" width="400" alt="ferreteria_ferretic_backend"></a>
+<!--<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank"><img src="" width="400" alt="ferreteria_ferretic_backend"></a>
 <p>
-<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank">
+<!--<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a> -->
-</p>
+</a> 
+</p>-->
 <p>
 The Sales Management System of a hardware store is a web application that utilizes a RESTful API in Django to manage user data, roles, products, sales, employees, and customers. The user interface is built in Angular and allows users, depending on their roles, to manage products, record sales, handle customers and employees, and access sales reports. The application uses a PostgreSQL database to efficiently store data and offers a comprehensive solution for efficiently and attractively managing the sales operations of a company. 
 </p>
-</div>
-                                                                                      
+</div>                                                                         
 </td>
-
 <td width="50%">
 <h3 align="center">Maniobras Maritimas</h3>
 <div align="center">                                       
-<!-- <a href="https://github.com/juanseb7/projectops_backend" target="_blank"><img src="" width="400" alt="Maniobras Maritimas"></a> -->
+<!-- <a href="https://github.com/juanseb7/projectops_backend" target="_blank"><img src="" width="400" alt="Maniobras Maritimas"></a> 
 <br>
 <p>
-<a href="https://github.com/juanseb7/projectops_backend" target="_blank">
+<!--<a href="https://github.com/juanseb7/projectops_backend" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
@@ -75,7 +73,7 @@ The Maritime Maneuver Management System is a web application that utilizes a RES
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">Hospitalizacion-en-casa</h3>
+<h3 align="center">Hospitalizacion en Casa</h3>
 <div align="center">
 <!-- <a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank"><img src="" width="400" alt="Hospitalizacion-en-casa"></a> -->
 <p>
@@ -98,11 +96,11 @@ The Home Hospitalization System is an innovative healthcare solution that levera
 </div>
 <br>
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics -->
+ ### ⚙️ &nbsp;GitHub Analytics 
 
-<!-- <p align="center">
+ <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fimercadog&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fimercadog&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>-->
+</p>
