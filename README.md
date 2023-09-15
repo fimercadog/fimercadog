@@ -54,7 +54,7 @@ The Sales Management System of a hardware store is a web application that utiliz
 <td width="50%">
 <h3 align="center">Maniobras Maritimas</h3>
 <div align="center">                                       
-<a href="https://github.com/juanseb7/projectops_backend" target="_blank"><img src="" width="400" alt="Maniobras Maritimas"></a>
+<!-- <a href="https://github.com/juanseb7/projectops_backend" target="_blank"><img src="" width="400" alt="Maniobras Maritimas"></a> -->
 <br>
 <p>
 <a href="https://github.com/juanseb7/projectops_backend" target="_blank">
@@ -77,10 +77,10 @@ The Maritime Maneuver Management System is a web application that utilizes a RES
 <td width="100%">
 <h3 align="center">Hospitalizacion-en-casa</h3>
 <div align="center">
-<a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank"><img src="" width="400" alt="Hospitalizacion-en-casa"></a>
+<!-- <a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank"><img src="" width="400" alt="Hospitalizacion-en-casa"></a> -->
 <p>
 <a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<!-- <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"> -->
 </a>
 <!-- <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
