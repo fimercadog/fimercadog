@@ -8,7 +8,7 @@
 <h2> About me: </h2> 
 
 - 👨‍💻 Custom Web Development Expert
-- 💼 +8 years of experience  
+- 💼 +4 years of experience  
 - 🛠️ Custom Development 
 - 👨‍💻 ADSI Technologist 
 - 📱 Apps
