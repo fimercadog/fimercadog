@@ -13,6 +13,9 @@
 - 👨‍💻 ADSI Technologist 
 - 📱 Apps
 
+<h2><a href="https://github.com/fimercadog">Portfolio</a></h2> 
+
+
 <h2> About me: </h2> 
 
 | Skill                 | Skill                       | Skill                       |
