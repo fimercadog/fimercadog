@@ -1,6 +1,6 @@
 <div align="center">
 <h1  align="center">Hi, I am Fidel Mercado 👋</h1>
-<img src="https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/375060078_10159875706491242_5193003114832006474_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=49d041&_nc_ohc=D5a1h0fMoT4AX_FSsHS&_nc_ht=scontent.fbog4-1.fna&oh=00_AfBr-mNJzhIxDaPpEj1htCed9klVpZR0Qj5Pvnm_8ujiog&oe=65087889">
+<img src="https://github.com/fimercadog/fidel-mercado/blob/gh-pages/img/sistema_de_informacion.png">
 </div>
 <!--
 **fimercadog/fimercadog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
