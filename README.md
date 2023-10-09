@@ -13,7 +13,7 @@
 - 👨‍💻 ADSI Technologist 
 - 📱 Apps
 
-<h2><a href="https://github.com/fimercadog">Portfolio</a></h2> 
+<h2><a href="https://fimercadog.github.io/fidel-mercado/">Portfolio</a></h2> 
 
 
 <h2> About me: </h2> 
