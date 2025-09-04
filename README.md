@@ -1,108 +1,90 @@
 <div align="center">
-<h1  align="center">Hi, I am Fidel Mercado 👋</h1>
-<img src="https://github.com/fimercadog/fidel-mercado/blob/gh-pages/img/sistema_de_informacion.png">
+<h1>Hola, soy Fidel Mercado 👋</h1>
+<img src="https://github.com/fimercadog/fidel-mercado/blob/gh-pages/img/sistema_de_informacion.png" width="400">
 </div>
-<!--
-**fimercadog/fimercadog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h2> About me: </h2> 
 
-- 👨‍💻 Custom Web Development Expert
-- 💼 +4 years of experience  
-- 🛠️ Custom Development 
-- 👨‍💻 ADSI Technologist 
-- 📱 Apps
+---
 
-<h2><a href="https://fimercadog.github.io/fidel-mercado/">Portfolio</a></h2> 
+## Sobre mí
 
+- 👨‍💻 Especialista Full Stack & Análisis de Datos  
+- 💼 Más de 4 años de experiencia profesional  
+- 🛠️ Desarrollo de sitios web y software a medida  
+- 📊 Análisis de datos y reportes  
+- 🎯 Enfocado en plataformas SaaS y soluciones empresariales  
 
-<h2> About me: </h2> 
+[Mi Portafolio](https://fimercadog.github.io/fidel-mercado/)
 
-| Skill                 | Skill                       | Skill                       |
-|-----------------------|-----------------------------|-----------------------------|
-| Api RESTful   = 80    | .Net                 = 50   | css                 = 80    |
-| Agular        = 60    | Sql Server Express   = 50   | oracle               = 60   |
-| Django        = 70    | Visual Code          = 80   |
-| Python        = 80    | Entity Framework     = 50   |
-| php           = 70    | Framework Razor      = 50   |
-| laravel       = 60    | Azure Data Studio    = 40   |
-| Android       = 50    | Boostrap 4,5         = 90   |
-| JavaScript    = 80    | C#                   = 60   |
-| SEO           = 80    | SQL                  = 50   |
-| WordPress     = 80    | MySql                = 80   |
+---
 
+## Experiencia Destacada
 
-## *Featured* projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">FerreSoft</h3>
-<div align="center">
-<!--<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank"><img src="" width="400" alt="ferreteria_ferretic_backend"></a>
-<p>
-<!--<a href="https://github.com/fimercadog/ferreteria_ferretic_backend" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<!-- <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a> 
-</p>-->
-<p>
-The Sales Management System of a hardware store is a web application that utilizes a RESTful API in Django to manage user data, roles, products, sales, employees, and customers. The user interface is built in Angular and allows users, depending on their roles, to manage products, record sales, handle customers and employees, and access sales reports. The application uses a PostgreSQL database to efficiently store data and offers a comprehensive solution for efficiently and attractively managing the sales operations of a company. 
-</p>
-</div>                                                                         
-</td>
-<td width="50%">
-<h3 align="center">Maniobras Maritimas</h3>
-<div align="center">                                       
-<!-- <a href="https://github.com/juanseb7/projectops_backend" target="_blank"><img src="" width="400" alt="Maniobras Maritimas"></a> 
-<br>
-<p>
-<!--<a href="https://github.com/juanseb7/projectops_backend" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<!-- <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a> -->
-</p>
-</p>
-The Maritime Maneuver Management System is a web application that utilizes a RESTful API in Django and a user interface in Angular to manage and optimize maritime operations. It allows users with specific roles to record maneuvers, assign personnel and resources, track vessels, manage clients and employees, and generate reports. It integrates custom data models to track critical details such as vessels, crew, and equipment, facilitating efficient management and informed decision-making in the field of maritime maneuvers.
-</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+**Full Stack Developer – Proyecto Propio SaaS Veterinaria**  
+*Autónomo / Freelance | may. 2025 - actualidad | Bogotá, Colombia · Remoto*  
+Desarrollo de plataforma SaaS para gestión de clínicas veterinarias: agenda, pacientes, inventario y facturación. Paneles de control interactivos con Next.js / React, backend en Laravel con APIs RESTful, interfaces con Bootstrap y AdminLTE.  
+**Tecnologías:** Laravel · AdminLTE · APIs RESTful · MySQL · Bootstrap · Next.js · React
 
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Hospitalizacion en Casa</h3>
-<div align="center">
-<!-- <a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank"><img src="" width="400" alt="Hospitalizacion-en-casa"></a> -->
-<p>
-<a href="https://github.com/fimercadog/Hospitalizacion-en-casa" target="_blank">
-<!-- <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"> -->
-</a>
-<!-- <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a> -->
-</p>
-<p>
-  
-The Home Hospitalization System is an innovative healthcare solution that leverages a RESTful API developed in .NET to connect a web platform based on Bootstrap 5, with functionalities of Razor Framework, HTML, CSS, and JavaScript. It uses Entity Framework for data management and relies on SQL Server Express for secure storage of patient information and their medical care. The project allows patients to receive medical care and continuous monitoring from the comfort of their homes, facilitating communication with healthcare professionals and improving the efficiency of care. Additionally, it integrates with Azure Data Studio for data analysis and patient health monitoring. The application is primarily developed in C# and SQL, ensuring quality medical care and a smooth user experience.
+**Full Stack Developer – E-commerce Multiusuario (Next.js / React)**  
+*Autónomo | sept. 2024 - mar. 2025 | Bogotá, Colombia · Remoto*  
+Plataforma de comercio electrónico multiusuario con catálogo, carrito y pagos seguros. Frontend en Next.js, dashboards administrativos y seguimiento de pedidos; backend en Laravel con APIs RESTful.  
+**Tecnologías:** Laravel · Next.js · APIs RESTful · Tailwind CSS · PostgreSQL · Desarrollo de API
 
-</p>
-</div>
-                                                                                      
-</td>                                                    
-</table>                                                                                 
-</div>
-<br>
+**Desarrollador Full Stack – Plataforma Clínica Estética**  
+*Freelancer | ene. 2024 - ago. 2024 | Bogotá, Colombia · Remoto*  
+Sistema de gestión para clínicas estéticas: agenda, pacientes, facturación y reportes financieros. Mejoró trazabilidad y generación de indicadores clave.  
+**Tecnologías:** Django REST framework · AdminLTE · Bootstrap · PostgreSQL · Desarrollo de API
 
- ### ⚙️ &nbsp;GitHub Analytics 
+**Desarrollador Full Stack – VetSoft (Sistema de Administración Veterinaria)**  
+*CodeGenius | feb. 2022 - sept. 2023 | Ciudad de México, México · Remoto*  
+Sistema completo de gestión veterinaria: módulos asistenciales, inventario, ventas, laboratorio, CRM y e-commerce. Backend en Laravel, frontend en Angular.  
+**Tecnologías:** Laravel · Angular · MySQL · Express.js · Node.js · HTML5 · JavaScript · TypeScript · Modelado UML
 
- <p align="center">
-<a href="https://github.com/ArisGuimera">
+---
+
+## Experiencia General
+
+- Analista de datos – SENA (jun. 2021 - dic. 2021)  
+- Desarrollo de videojuegos en Unity con C# (jun. 2021 - dic. 2021)  
+- Sistemas académicos y de inventario (2020-2021)  
+- Sistemas de gestión veterinaria, clínicas y citas médicas (2019-2020)  
+- Desarrollo Full Stack Laravel + React para CMS y e-commerce (2013-2015)  
+
+---
+
+## Habilidades
+
+| Habilidad                  | Nivel |
+|----------------------------|-------|
+| Laravel                    | 90    |
+| MySQL / PostgreSQL         | 80    |
+| APIs RESTful               | 85    |
+| Bootstrap / AdminLTE       | 80    |
+| Next.js / React            | 75    |
+| Django REST framework      | 70    |
+| Angular                    | 65    |
+| Node.js / Express.js       | 70    |
+| HTML5 / CSS / Tailwind     | 80    |
+| C# / Unity                 | 60    |
+| UML / Modelado             | 70    |
+
+---
+
+## Proyectos Destacados
+
+**FerreSoft**  
+Sistema de gestión de ventas para ferreterías, desarrollado con Django REST API, Angular y PostgreSQL. Incluye gestión de productos, ventas, clientes y reportes detallados.
+
+**Maniobras Marítimas**  
+Sistema de gestión de maniobras marítimas con Django REST API y Angular. Control de personal, recursos, embarcaciones y reportes personalizados.
+
+**Hospitalización en Casa**  
+Plataforma de salud que conecta pacientes con profesionales desde casa. Backend en .NET con RESTful API, frontend en Bootstrap 5, Razor, HTML, CSS y JavaScript. Gestión de datos con Entity Framework y SQL Server Express.
+
+---
+
+### ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/fimercadog">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fimercadog&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fimercadog&layout=compact&langs_count=8&theme=algolia"/>
 </a>
