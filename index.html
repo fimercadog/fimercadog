@@ -455,6 +455,43 @@ footer { background: #020817; color: #fff; border-top: 1px solid rgba(255,255,25
 .footer-links a { color: #64748b; transition: color 0.15s; }
 .footer-links a:hover { color: #fff; }
 
+/* ── Who section ─────────────────────────────────────────── */
+.who-grid { display: grid; gap: 48px; align-items: start; }
+@media (min-width: 1024px) { .who-grid { grid-template-columns: 1fr 1fr; gap: 64px; } }
+.who-body { display: flex; flex-direction: column; gap: 18px; }
+.who-body p { font-size: 15px; color: var(--text-light); line-height: 1.8; }
+.who-email { font-size: 14px; font-weight: 700; color: var(--green-dark); text-decoration: underline; text-underline-offset: 3px; transition: color 0.15s; }
+.who-email:hover { color: #02e173; }
+.who-cards { display: flex; flex-direction: column; gap: 14px; }
+.who-stat-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.who-stat {
+  background: #fff; border-radius: 20px; padding: 22px 20px;
+  border: 1px solid var(--border); box-shadow: var(--shadow-soft);
+}
+.who-stat .wnum { font-size: 2rem; font-weight: 900; color: #1a1a1a; line-height: 1; }
+.who-stat .wlbl { font-size: 12px; color: var(--text-light); margin-top: 6px; line-height: 1.4; }
+.who-featured {
+  background: #fff; border-radius: 20px; padding: 28px;
+  border: 1px solid rgba(77,233,97,0.35); box-shadow: var(--shadow-soft);
+}
+.who-featured .wf-num { font-size: 3rem; font-weight: 900; color: #1a1a1a; line-height: 1; }
+.who-featured .wf-tag { font-size: 13px; font-weight: 700; color: var(--green-dark); margin: 4px 0 8px; }
+.who-featured .wf-sub { font-size: 13px; color: var(--text-light); line-height: 1.5; }
+.who-cert {
+  background: #fff; border-radius: 18px; padding: 18px 20px;
+  border: 1px solid var(--border); box-shadow: var(--shadow-soft);
+  display: flex; align-items: center; gap: 14px;
+}
+.who-cert-ico {
+  width: 38px; height: 38px; border-radius: 50%; flex-shrink: 0;
+  background: #e8f5e9; display: flex; align-items: center; justify-content: center;
+  font-size: 14px; font-weight: 900; color: var(--green-dark);
+}
+.who-cert-title { font-size: 13px; font-weight: 700; color: var(--text-dark); line-height: 1.3; }
+.who-cert-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+.who-cert-link { font-size: 11px; font-weight: 700; color: var(--green-dark); display: block; margin-top: 3px; transition: color 0.15s; }
+.who-cert-link:hover { color: #02e173; }
+
 /* ── Section heading utility ─────────────────────────────── */
 .sh { margin-bottom: 48px; }
 .sh.center { text-align: center; }
@@ -869,6 +906,64 @@ footer { background: #020817; color: #fff; border-top: 1px solid rgba(255,255,25
       <div class="qcard"><div class="qkicker">Control &amp; Logística</div><p style="font-size:14px;color:var(--text-dark);line-height:1.6;font-weight:500;margin-top:10px;">"La captura de inventarios por voz y fotografía con IA eliminó los errores manuales al registrar entradas de almacén."</p></div>
       <div class="qcard"><div class="qkicker">Atención al Cliente</div><p style="font-size:14px;color:var(--text-dark);line-height:1.6;font-weight:500;margin-top:10px;">"La integración con WhatsApp permite responder automáticamente a cada cliente sin perder la ficha de seguimiento en el ERP."</p></div>
       <div class="qcard"><div class="qkicker">Empresa de Servicios</div><p style="font-size:14px;color:var(--text-dark);line-height:1.6;font-weight:500;margin-top:10px;">"Una solución rápida, probada y adaptada a nuestras necesidades. El proceso de implementación fue claro desde la demo inicial."</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ QUIÉN ESTÁ DETRÁS ════════════════════════════════════ -->
+<section class="saas-section" style="background:var(--cream);">
+  <div class="container">
+    <div class="who-grid">
+      <!-- Texto izquierda -->
+      <div class="who-body">
+        <span class="eyebrow">Quién está detrás</span>
+        <h2 class="saas-h2" style="color:var(--text-dark);">Hablas directo con quien construye tu sistema</h2>
+        <p>Soy <strong>Fidel Mercado</strong>, fundador de Fidel Mercado Tech — un grupo de desarrolladores especializados en software empresarial para PYMES. Desde 2020 hemos construido sistemas de gestión para negocios reales: clínicas veterinarias, clínicas estéticas, ferreterías, instituciones educativas, comercios y empresas de servicios en Colombia y Estados Unidos.</p>
+        <p>No vendo plantillas. Cada módulo que te ofrezco — inventario, agenda, historia clínica, facturación, CRM, agentes de WhatsApp con IA — ya lo construí y ajusté en proyectos anteriores. Parto de una base probada y la adapto a tu operación sin empezar desde cero.</p>
+        <p>Cuando contratas con nosotros, trato directo conmigo desde el diagnóstico y durante toda la entrega — no hay vendedor en el medio que prometa lo que no sabe construir.</p>
+        <a href="mailto:contacto@fidelmercadotech.com" class="who-email">contacto@fidelmercadotech.com</a>
+      </div>
+
+      <!-- Cards derecha -->
+      <div class="who-cards">
+        <!-- Stats pequeños -->
+        <div class="who-stat-row">
+          <div class="who-stat">
+            <div class="wnum">+6</div>
+            <div class="wlbl">años en sistemas empresariales</div>
+          </div>
+          <div class="who-stat">
+            <div class="wnum">+10</div>
+            <div class="wlbl">sistemas desarrollados de punta a punta</div>
+          </div>
+        </div>
+
+        <!-- Stat featured -->
+        <div class="who-featured">
+          <div class="wf-num">15 años</div>
+          <div class="wf-tag">programando — desde 2010</div>
+          <div class="wf-sub">De apps móviles en Bogotá a ERP empresariales en Colombia y EE.UU.</div>
+        </div>
+
+        <!-- Certificaciones -->
+        <div class="who-cert">
+          <div class="who-cert-ico">M</div>
+          <div>
+            <div class="who-cert-title">Meta Back-End Developer</div>
+            <div class="who-cert-sub">Certificado profesional · Coursera × Meta · ene 2026</div>
+            <a href="https://fidelmercadotech.com/nosotros" class="who-cert-link" target="_blank" rel="noopener">Verificar certificado →</a>
+          </div>
+        </div>
+
+        <div class="who-cert">
+          <div class="who-cert-ico">M</div>
+          <div>
+            <div class="who-cert-title">Back-End Developer Certified Professional</div>
+            <div class="who-cert-sub">Certificado profesional · jun 2025</div>
+            <a href="https://fidelmercadotech.com/nosotros" class="who-cert-link" target="_blank" rel="noopener">Verificar certificado →</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
