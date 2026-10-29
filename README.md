@@ -65,6 +65,17 @@ Trato directo desde el primer mensaje hasta mucho después de la entrega.
 
 ---
 
+## Trayectoria
+
+| | |
+|---|---|
+| **2025 – hoy** · SaaS Veterinaria | Agenda, pacientes, inventario y facturación. Next.js + Laravel (API REST). |
+| **2024 – 2025** · E-commerce multiusuario | Catálogo, carrito, pagos y dashboards. Next.js + Laravel + PostgreSQL. |
+| **2024** · Plataforma Clínica Estética | Agenda, pacientes, facturación y reportes financieros. Django REST + PostgreSQL. |
+| **2022 – 2023** · VetSoft (CodeGenius, México) | Gestión veterinaria completa: inventario, ventas, laboratorio, CRM y e-commerce. Laravel + Angular. |
+
+---
+
 ## Stack
 
 <div align="center">
