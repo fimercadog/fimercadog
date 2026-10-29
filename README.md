@@ -13,7 +13,7 @@
 - 📊 Análisis de datos y reportes  
 - 🎯 Enfocado en plataformas SaaS y soluciones empresariales  
 
-[Mi Portafolio](https://fimercadog.github.io/fidel-mercado/)
+[Mi Portafolio](https://fimercadog.github.io/fimercadog/)
 
 ---
 
